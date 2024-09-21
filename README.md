@@ -1,3 +1,3 @@
 # online-shop
 Tailwind CSS
-https://rafiramdani1.github.io/online-shop/
+https://rafiramdani321.github.io/tailwind-online-shop/
